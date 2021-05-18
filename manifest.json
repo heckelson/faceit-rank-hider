@@ -1,7 +1,7 @@
 {
-  "manifest_version": 2,
+  "manifest_version": 3,
   "name": "Faceit Rank Hider",
-  "version": "1.0.0",
+  "version": "1.0.1",
 
   "description": "Hides everyone's faceit rank in your browser",
 
